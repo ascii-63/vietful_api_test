@@ -1,0 +1,8 @@
+.qodo
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+.env
+temp.py
